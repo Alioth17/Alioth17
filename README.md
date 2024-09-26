@@ -1,16 +1,16 @@
-## Hi there 👋
+### olá 👋
 
-<!--
-**Alioth17/Alioth17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alioth17
 
-Here are some ideas to get you started:
+- estou estudandona [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organização  e compartilhamento do meu projeto desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### entar em contato comigo 📫
+
+lucasgama.cs15@gmail.com
+
+
+
+![](https://media1.tenor.com/m/fIYqL5uSn4IAAAAd/wolverinepool-deadpool-claws.gif)
+https://media1.tenor.com/m/fIYqL5uSn4IAAAAd/wolverinepool-deadpool-claws.gif
